@@ -26,24 +26,48 @@ No esquema acima é possível observar que os datasets são interligados por cha
 ## 🔎 Análises
 
 ### Top 10 categorias com maior receita
-
+<img src="./plots/top10_categories_highest_revenue.png">
 
 ### Top 10 categorias com menor receita
-
+<img src="./plots/top10_categories_lowest_revenue.png">
 
 ### Top 10 vendedores com maior receita
+<img src="./plots/top_10_highest_sellers.png">
 
 
 ### Top 6 produtos com maior quantidade de vendedores
-
+<img src="./plots/product_with_most_sellers_1.png">
 
 ### Vendedores com maiores reviews baseado na quantidade de vendas
-
+<img src="./plots/sellers_with_best_reviews.png">
 
 ### Correlação entre o número de vendas e o número de reviews por seller
-
+<img src="./plots/num_sells_num_reviews.png">
 
 ### A presença de uma review escrita influencia na nota?
 
+#### Com mensagem de review
+<img src="./plots/comments_by_sentiment_with_review_message.png">
+
+
+#### Sem mensagem de review
+<img src="./plots/comments_by_sentiment_with_review_no_message.png">
+
+
+### Cidades com maior receita
+<img src="./plots/top10_highest_sales_cities.png">
+
+### Estados com maior receita
+<img src="./plots/top12_states_highest_sales.png">
+
 
 ### Os produtos tiveram inflação ao longo do tempo?
+
+#### Produto P_656e0eca
+<img src="./plots/product_inflation_P_656e0eca.png">
+
+#### Produto P_d285360f
+<img src="./plots/product_inflation_P_d285360f.png">
+
+#### Produto P_e0d64dcf
+<img src="./plots/product_inflation_P_e0d64dcf.png">
